@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDemoFunctions.a CMakeFiles/DemoFunctions.dir/jieGouTi.cpp.o CMakeFiles/DemoFunctions.dir/zhiZhen.cpp.o CMakeFiles/DemoFunctions.dir/zhiZhenShuZu.cpp.o
+/usr/bin/ranlib libDemoFunctions.a

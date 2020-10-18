@@ -1,0 +1,6 @@
+/home/liusheng/CLionProjects/Learn/build/CMakeFiles/rebuild_cache.dir
+/home/liusheng/CLionProjects/Learn/build/CMakeFiles/Learn.dir
+/home/liusheng/CLionProjects/Learn/build/CMakeFiles/edit_cache.dir
+/home/liusheng/CLionProjects/Learn/build/src/CMakeFiles/rebuild_cache.dir
+/home/liusheng/CLionProjects/Learn/build/src/CMakeFiles/DemoFunctions.dir
+/home/liusheng/CLionProjects/Learn/build/src/CMakeFiles/edit_cache.dir
