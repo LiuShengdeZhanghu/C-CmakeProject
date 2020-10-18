@@ -77,10 +77,6 @@ void yudinyihong()
 }
 
 int main() {
-    cout << "Hello, World!" << endl;
-    cout << "Value of __LINE__ : " << __LINE__ << endl;
-    cout << "Value of __FILE__ : " << __FILE__ << endl;
-    cout << "Value of __DATE__ : " << __DATE__ << endl;
-    cout << "Value of __TIME__ : " << __TIME__ << endl;
+    cout << "hello word" << endl;
     return 0;
 }
