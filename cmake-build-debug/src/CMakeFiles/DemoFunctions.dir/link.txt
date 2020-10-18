@@ -1,0 +1,2 @@
+C:\MyData\C++\environment\mingw64\bin\ar.exe qc libDemoFunctions.a  CMakeFiles/DemoFunctions.dir/jieGouTi.cpp.obj CMakeFiles/DemoFunctions.dir/zhiZhen.cpp.obj CMakeFiles/DemoFunctions.dir/zhiZhenShuZu.cpp.obj
+C:\MyData\C++\environment\mingw64\bin\ranlib.exe libDemoFunctions.a

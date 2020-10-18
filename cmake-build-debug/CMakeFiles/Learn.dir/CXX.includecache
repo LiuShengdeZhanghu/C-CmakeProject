@@ -6,7 +6,25 @@
 
 #IncludeRegexTransform: 
 
-/home/liusheng/CLionProjects/Learn/main.cpp
+C:/MyData/C++/Learn/C-CmakeProject/main.cpp
 iostream
+-
+map
+-
+string
+-
+src/jieGouTi.h
+C:/MyData/C++/Learn/C-CmakeProject/src/jieGouTi.h
+src/Dog.h
+C:/MyData/C++/Learn/C-CmakeProject/src/Dog.h
+
+C:/MyData/C++/Learn/C-CmakeProject/src/Dog.h
+iostream
+-
+
+C:/MyData/C++/Learn/C-CmakeProject/src/jieGouTi.h
+iostream
+-
+string
 -
 

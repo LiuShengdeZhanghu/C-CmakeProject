@@ -1,3 +1,6 @@
-/home/liusheng/CLionProjects/Learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/liusheng/CLionProjects/Learn/cmake-build-debug/CMakeFiles/Learn.dir
-/home/liusheng/CLionProjects/Learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MyData/C++/Learn/C-CmakeProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/MyData/C++/Learn/C-CmakeProject/cmake-build-debug/CMakeFiles/Learn.dir
+C:/MyData/C++/Learn/C-CmakeProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/MyData/C++/Learn/C-CmakeProject/cmake-build-debug/src/CMakeFiles/DemoFunctions.dir
+C:/MyData/C++/Learn/C-CmakeProject/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/MyData/C++/Learn/C-CmakeProject/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

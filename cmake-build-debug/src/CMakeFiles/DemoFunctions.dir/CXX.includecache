@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/MyData/C++/Learn/C-CmakeProject/src/jieGouTi.cpp
+jieGouTi.h
+C:/MyData/C++/Learn/C-CmakeProject/src/jieGouTi.h
+
+C:/MyData/C++/Learn/C-CmakeProject/src/jieGouTi.h
+iostream
+-
+string
+-
+
+C:/MyData/C++/Learn/C-CmakeProject/src/zhiZhen.cpp
+zhiZhen.h
+C:/MyData/C++/Learn/C-CmakeProject/src/zhiZhen.h
+
+C:/MyData/C++/Learn/C-CmakeProject/src/zhiZhen.h
+iostream
+-
+
+C:/MyData/C++/Learn/C-CmakeProject/src/zhiZhenShuZu.cpp
+zhiZhenShuZu.h
+C:/MyData/C++/Learn/C-CmakeProject/src/zhiZhenShuZu.h
+
+C:/MyData/C++/Learn/C-CmakeProject/src/zhiZhenShuZu.h
+
