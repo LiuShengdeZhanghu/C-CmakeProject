@@ -78,6 +78,6 @@ void yudinyihong()
 
 int main() {
     cout << "hello word" << endl;
-	cout<< "ss" << endl;
+    yudinyihong();
     return 0;
 }
